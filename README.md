@@ -6,7 +6,7 @@
 
 This tool fights back. By flooding their channels with AI-generated protest emails, it wastes their time, pollutes the stolen data they funnel into Grok, and grinds their agenda to a halt. Every email is a digital wrench in their machine—a reminder that they can’t bulldoze democracy without resistance.
 
-## Why We Fuck Your 5 Things
+## Why We Spam Elon Musk and DOGE
 
 - **Disrupt the Machine:** Flood the channels used to fire federal workers, forcing the enforcers to waste valuable time and resources.
 - **Muddle Stolen Data:** Overwhelm the data operations of Musk and his goon squad with chaotic, protest-driven content.
