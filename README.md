@@ -1,8 +1,8 @@
-# FuckYour5Things
+# Spam-Musk
 
 ## Overview
 
-**FuckYour5Things** is a cute little protest tool built to disrupt the chaos agents dismantling America for profit. Musk, his stolen-data-powered AI, Trump’s cult, and their Russian oligarch backers aren’t just corrupt bureaucrats—they’re a cabal of unhinged grifters hell-bent on gutting federal institutions, wrecking workers’ livelihoods, and consolidating power for the ultra-rich.
+**Spam-Musk** is a cute little protest tool built to disrupt the chaos agents dismantling America for profit. Musk, his stolen-data-powered AI, Trump’s cult, and their Russian oligarch backers aren’t just corrupt bureaucrats—they’re a cabal of unhinged grifters hell-bent on gutting federal institutions, wrecking workers’ livelihoods, and consolidating power for the ultra-rich.
 
 This tool fights back. By flooding their channels with AI-generated protest emails, it wastes their time, pollutes the stolen data they funnel into Grok, and grinds their agenda to a halt. Every email is a digital wrench in their machine—a reminder that they can’t bulldoze democracy without resistance.
 
@@ -30,7 +30,7 @@ This tool fights back. By flooding their channels with AI-generated protest emai
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/whateveraccountforkitplease/fuckyour5things.git
+git clone https://github.com/whateveraccountforkitplease/spam-musk.git
 cd fuckyour5things
 ```
 
