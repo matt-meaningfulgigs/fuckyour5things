@@ -1,0 +1,33 @@
+{
+    "name": "fuckyour5things",
+    "version": "1.0.0",
+    "description": "Fuck Musk and DOGE. Fill their email with garbage, and feed their AI with poop and butts",
+    "main": "dist/send_emails.js",
+    "scripts": {
+        "postinstall": "node scripts/postinstall.js",
+        "start": "brew services start ollama && ts-node src/send_emails.ts",
+        "build": "tsc",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "stop": "brew services stop ollama"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "child_process": "^1.0.2",
+        "dotenv": "^16.4.7",
+        "fs": "^0.0.1-security",
+        "image-to-ascii": "^3.2.2",
+        "nodemailer": "^6.10.0",
+        "playwright": "^1.50.1",
+        "playwright-extra": "^4.3.6",
+        "puppeteer-extra-plugin-stealth": "^2.11.2",
+        "readline-sync": "^1.4.10"
+    },
+    "devDependencies": {
+        "@types/node": "^22.13.9",
+        "@types/nodemailer": "^6.4.17",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.8.2"
+    }
+}
