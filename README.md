@@ -2,9 +2,9 @@
 
 ## Overview
 
-**FuckYour5Things** is a protest tool built to cripple the bureaucratic machine that’s trying to fire hardworking federal workers. As Musk, Trump, DOGE, and the Russians conspire to dismantle America’s institutions and undermine the workforce that keeps our country running, this tool floods their systems with relentless, AI-generated protest emails. Its mission is simple: waste their time, muddle the data they’re stealing, and bog down their cronies with a ceaseless barrage of dissent.
+**FuckYour5Things** is a cute little protest tool built to disrupt the chaos agents dismantling America for profit. Musk, his stolen-data-powered AI, Trump’s cult, and their Russian oligarch backers aren’t just corrupt bureaucrats—they’re a cabal of unhinged grifters hell-bent on gutting federal institutions, wrecking workers’ livelihoods, and consolidating power for the ultra-rich.
 
-*Use this tool to slow down the oppressive machinery and defend the workers.*
+This tool fights back. By flooding their channels with AI-generated protest emails, it wastes their time, pollutes the stolen data they funnel into Grok, and grinds their agenda to a halt. Every email is a digital wrench in their machine—a reminder that they can’t bulldoze democracy without resistance.
 
 ## Why We Fuck Your 5 Things
 
@@ -57,7 +57,7 @@ Create or update these plain text files in the **/data** folder:
   This password is stored only on your computer in this file. However, always keep your passwords and app passwords secure.
 
 - **recipients.txt**  
-  List one recipient email per line. If this file is missing, it defaults to `hr@opm.gov`.
+  List one recipient email per line. If this file is missing, it defaults to `hr@opm.gov` because that's the origin of this garbage.
 
 - **templates.txt**  
   Enter protest template examples separated by blank lines. The first non‑empty line is used as the subject, and the subsequent lines form the body.  
@@ -72,6 +72,7 @@ Create or update these plain text files in the **/data** folder:
     4. Left his cronies reeling from the brutal truth.
     5. Made sure every tweet of his became a punchline.
     Regards,
+    Homer Simpson
 
     Trump's Total Transformation Fiasco
     Dear HR,
@@ -82,6 +83,7 @@ Create or update these plain text files in the **/data** folder:
     4. Turned his boardroom bluster into a joke of epic proportions.
     5. Left his cronies scrambling for a comeback.
     Regards,
+    Dean Winchester
 
     Savage Weekly Scorecard
     Dear HR,
@@ -92,6 +94,7 @@ Create or update these plain text files in the **/data** folder:
     4. Exposed their hypocrisy in a barrage of vulgar wit.
     5. Sparked a revolution of laughter that left them stunned.
     Regards,
+    Laura Palmer
   ```
 
 ## Usage
